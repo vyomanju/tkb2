@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://www.googleapis.com/drive/v3/files/1-4l-YeOxAwrWytYhe5H3fw6tPwsUlK_n?alt=media&key=AIzaSyD6r9D4-abjc6Cwr1K8QbppSJ4lf6FcTus'
+export_file_url = 'https://www.googleapis.com/drive/v3/files/1-4l-YeOxAwrWytYhe5H3fw6tPwsUlK_n?alt=media&key=AIzaSyCXkIc37Sf0Svoi3tW4YjHJcGHZRMn-Mxk'
 export_file_name = 'bruh.pkl'
 
 classes = ['Jacob Elordi', 'Joel Courtney', 'Joey King', 'Maise Richardson-sellers', 'Meganne Young', 'Taylor Zakhar Perez']
