@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://www.googleapis.com/drive/v3/files/102FvtBAO0uKhYllynuN5wqCZUCVLIRy6?alt=media&key=AIzaSyCXkIc37Sf0Svoi3tW4YjHJcGHZRMn-Mxk'
+export_file_url = 'https://www.googleapis.com/drive/v3/files/102FvtBAO0uKhYllynuN5wqCZUCVLIRy6?alt=media&key=AIzaSyCeV8l92KUzSUFF0M2wECsmuUasaiu1MpU'
 export_file_name = 'gecko.pkl'
 
 classes = ['Jacob Elordi', 'Joel Courtney', 'Joey King', 'Maise Richardson-sellers', 'Meganne Young', 'Taylor Zakhar Perez']
